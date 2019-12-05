@@ -30,7 +30,7 @@ function createForm() {
 	if (value.sent_len != undefined) {
 	    textbox3.value = value.sent_len;
 	}
-    div3.innerHTML = '’Šo•¶”<br/>';
+    div3.innerHTML = 'æŠ½å‡ºæ–‡æ•°<br/>';
     div3.appendChild(textbox3);
 
     form.appendChild(div1);
