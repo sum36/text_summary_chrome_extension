@@ -1,0 +1,18 @@
+{
+  "name": "__MSG_0001__",
+  "description": "__MSG_0010__",
+  "version": "1.0",
+  "manifest_version": 2,
+  "options_page": "options.html",
+  "permissions": ["storage", "activeTab"],
+  "default_locale": "ja",
+  "browser_action": {
+   "default_icon": "cotoha16.png",
+   "default_title": "__MSG_0001__",
+   "default_popup": "popup.html"
+  },
+  "icons": {
+   "16": "cotoha16.png",
+   "48": "cotoha48.png"
+  }
+}

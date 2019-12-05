@@ -1,0 +1,18 @@
+#output {
+    border: 2px solid #0a0;
+    border-radius: 0.67em;
+    padding: 0.5em;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fff;
+    line-height: 1.6;
+}
+
+span.mark { background-color: lime; }
+
+body{
+   min-width:500px;
+   height:300px; 
+   font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+   padding:10px;
+}

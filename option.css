@@ -1,0 +1,41 @@
+.btn-square {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #668ad8;
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+}
+.btn-square-non {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #fd9535;
+  color: #FFF;
+  border-bottom: solid 4px #d27d00;
+  border-radius: 3px;
+}
+.btn-square-g {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #32cd32;
+  color: #FFF;
+  border-bottom: solid 4px #006400;
+  border-radius: 3px;
+}
+.btn-square:active {
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);
+  border-bottom: none;
+}
+body {
+  min-width: 300px;
+  font-size: 15px;
+}
+input {
+  margin: 3px;
+  outline: none;
+}
+</style>
