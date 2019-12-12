@@ -20,7 +20,6 @@ This is a Chrome Extension for using COTOHA summary API in a web browser.
 
 7. "COTOHA summary" is added to the extended function.
 
-日本語
 
 1. ローカル端末に新しいフォルダを作成し、ダウンロードしたtext_summary_chrom_extensionをフォルダ配下に保存する。 
 
@@ -41,7 +40,7 @@ This is a Chrome Extension for using COTOHA summary API in a web browser.
 
 1. Option setting
 
-Once you have installed it in the local environment, set COTOHA API contract information on the screen displayed by right-clicking the icon displayed in the browser → "Options".
+Once you have installed it in the local environment, set COTOHA API contract information on the screen displayed by right-clicking the icon displayed in the browser -> "Options".
 
 2. Text summarization
 
