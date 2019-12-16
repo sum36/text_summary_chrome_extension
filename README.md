@@ -48,8 +48,8 @@ Once you have installed it in the local environment, set COTOHA API contract inf
 Set the COTOHA API contract information to "Client ID" and "Client Secret".
 Also, set the number of sentences you want to extract from the original text to “Number of extracted sentences”.
 
-　1. For the text displayed in the browser, select the section you want to summarize by left-clicking the mouse.
-　2. Click on the extension icon with the status in 1.
-　3. Highlight the extracted part with the selected sentence
+ 1. For the text displayed in the browser, select the section you want to summarize by left-clicking the mouse.
+ 2. Click on the extension icon with the status in 1.
+ 3. Highlight the extracted part with the selected sentence
 
 that's all
